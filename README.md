@@ -1,9 +1,12 @@
-Name:-Pranali Dnyaneshwar Hase
-Project Name:-Grocery store management system.
+##Name:-Pranali Dnyaneshwar Hase
+
+##Project Name:-Grocery store management system.
+
 The Grocery Store Management System is a Python-based application designed to manage the inventory, customer orders, and operations of an online grocery store. 
 It provides functionalities such as adding, updating, and deleting items in the inventory, placing customer orders, and viewing the current inventory and order details.
 
-Features
+##Features
+
 Inventory Management:
 Add new items to the inventory.
 Update existing items in the inventory.
